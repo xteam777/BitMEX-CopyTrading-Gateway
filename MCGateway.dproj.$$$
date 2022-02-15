@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.158,C:\Base_1C\_WS\MCGateway\MCGateway.dproj=C:\Users\Tuman\Documents\Embarcadero\Studio\Projects\MCGateway.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.898,C:\Base_1C\_WS\MCGateway\uMain.dfm=C:\Users\Tuman\Documents\Embarcadero\Studio\Projects\uMain.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.898,C:\Base_1C\_WS\MCGateway\uMain.pas=C:\Users\Tuman\Documents\Embarcadero\Studio\Projects\uMain.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.462,C:\Users\Tuman\Documents\Embarcadero\Studio\Projects\uMain.pas=C:\Users\Tuman\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.462,C:\Users\Tuman\Documents\Embarcadero\Studio\Projects\uMain.dfm=C:\Users\Tuman\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.103,C:\Users\Tuman\Documents\Embarcadero\Studio\Projects\MCGateway.dproj=C:\Users\Tuman\Documents\Embarcadero\Studio\Projects\Project3.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.341,=C:\Users\Tuman\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.664,=C:\Users\Tuman\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.408,=C:\Users\Tuman\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+  </Transactions>
+</BorlandProject>
